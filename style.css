@@ -53,6 +53,7 @@
     border-radius: 5px;
     margin: 0px 10px;
     cursor: pointer;
+    min-width: 100px;
 }
 
 #clear-button {
@@ -64,6 +65,7 @@
     border-radius: 5px;
     margin: 0px 10px;
     cursor: pointer;
+    min-width: 100px;
 }
 
 #image-list-wrapper {
